@@ -1,0 +1,1 @@
+Terraform example: One Event Hub Namespace and multiple Event Hubs. Make use of simple custom Modules
